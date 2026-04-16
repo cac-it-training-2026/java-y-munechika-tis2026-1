@@ -20,7 +20,6 @@ public class Question01_1 {
 
 		System.out.println(price);
 		System.out.println(item);
-
 	}
 
 }
